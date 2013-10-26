@@ -1,0 +1,5 @@
+class Fuel
+{
+	public:
+	private:
+}
